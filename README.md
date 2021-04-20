@@ -6,7 +6,7 @@
 
 - Run the Keycloak serve 
   - Navigate to app dir `cd angular-keycloak`
-  - Build and run the container `docker-compose up --build`
+  - Build and run the container `docker-compose up`
   
 
 - Create a new user to be associated with thefront end app
